@@ -12,7 +12,7 @@
 <a href="https://twitter.com/CalvinCa5564" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techgod143" height="30" width="40" /></a>
 <a href="https://fb.com/Calvine Obu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="techgod143" height="30" width="40" /></a>
 <a href="https://instagram.com/calvineobumd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techgod143" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@calvineobumdtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech god" height="30" width="40" /></a>
+<a href="https://youtube.com/@calvineobumdtech?si=NDYOvJo5VvdvROfb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech god" height="30" width="40" /></a>
 </p>
 
 
